@@ -13,8 +13,8 @@ namespace ProductLinq
 
         public override string ToString()
         {
-            //감자 : 500원
-            return Name + " : " + Price + "원";
+            //감자: 500원
+            return Name + ": " + Price + "원";
         }
     }
 }
